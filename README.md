@@ -68,6 +68,8 @@ retail-sales-analysis/
 ```bash
 git clone https://github.com/SAMWEL-NYANGENA/Retail_Sales_EDA.git
 cd Retail_Sales_EDA
+## Install Required Packages:
+
 pip install numpy pandas matplotlib seaborn
 jupyter notebook retail_sales_eda.ipynb
 Samwel Nyangena
