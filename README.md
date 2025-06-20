@@ -75,3 +75,5 @@ jupyter notebook retail_sales_eda.ipynb
 Samwel Nyangena
 📧 samwelnyangena90@gmail.com
 🔗 GitHub Repository
+
+samwelll
